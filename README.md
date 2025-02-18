@@ -1,4 +1,4 @@
-![logo](https://github.com/masrafi-000/masrafi-000/blob/main/bannar.jpeg)
+![logo](https://github.com/masrafi-000/masrafi-000/blob/main/bannar.png)
 
 <h1 align="center">Hi 👋, I'm S M Masrafi</h1>
 <h3 align="center">Frontend Developer | Exploring Backend Development</h3>
