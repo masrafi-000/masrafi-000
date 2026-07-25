@@ -82,28 +82,6 @@ const masrafi = {
 
 ---
 
-## 📊 GitHub Analytics
-
-
-
-<!-- <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=masrafi-000&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
-</div> -->
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masrafi-000&theme=tokyonight" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=masrafi-000&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
